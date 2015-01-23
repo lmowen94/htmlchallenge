@@ -1,7 +1,8 @@
 # htmlchallenge
 <html>
   <head>
-    <title><h1>The Lauren Owen Story: Why the hood loves me</h1></title>
+    <title><h1>The Lauren Owen Story:
+      <br>Why the hood loves me</h1></title>
   </head>
   <body>
     <h5>Junior Information Systems major</h5>
