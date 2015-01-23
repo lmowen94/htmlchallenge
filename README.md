@@ -17,7 +17,8 @@
       <li>Stephenson Middle</li>
       <li>Champion Theme Middle</li>
       <li>Stephenson High</li>
-      <li>Arabia Magnet Theme High<li>
+      <li>Arabia Magnet Theme High</li>
+      <li>Howard University</li>
     </ol>
     <br>
     <h5>The Future</h5>
